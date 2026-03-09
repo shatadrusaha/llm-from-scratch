@@ -208,6 +208,8 @@ __marimo__/
 
 .DS_Store
 
+the_verdict/
+
 # Ignore GPT-2 model files
 gpt2/
 model_and_optimizer.pth
